@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApplication_kotlin</string>
+    <string name="Pedir_numero">Introduce un número</string>
+</resources>
