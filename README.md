@@ -6,7 +6,7 @@ Ejercicios de Java adaptados a kotlin
 #
 
 ### APK
-Los ejercicios se encuentran disponibles en este repositorio: ➤ **[apk/practica_kotlin.apk](https://github.com/dilan-flores/App_moviles-PracticaKotlin/tree/main/apk)**
+Los ejercicios se encuentran disponibles en este repositorio: ➤ **[apk/practica_kotlin.apk](https://github.com/dilan-flores/App_moviles-PracticaKotlin/blob/main/apk/practica_kotlin.apk)**
 
 ## Detalles de Implementación
 ### Control CheckBox
